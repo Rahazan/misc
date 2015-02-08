@@ -16,7 +16,7 @@ Currently many tasks robots perform are part of human-programmed plan libraries.
 Here I will highlight the main focus of the partners involved in the RoboHow project.
 The project is divided into 9 work packages, each has a leading institution, which is also specified in the list below.
 
-*  *Uni Bremen*
+*  *Uni Bremen*  
 The Universität Bremen (Germany)  will develop the (robot internal) representation of observations, knowledge and data, as well as methods for reasoning upon them for combining, learning and constraining them. From this, executable robot plans are transformed. 
 The university of Bremen is also the leading partner in the project coordination and management work package.  
 **Work Package 1: Representation**  

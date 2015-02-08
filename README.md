@@ -16,33 +16,33 @@ Currently many tasks robots perform are part of human-programmed plan libraries.
 Here I will highlight the main focus of the partners involved in the RoboHow project.
 The project is divided into 9 work packages, each has a leading institution, which is also specified in the list below.
 
-* ####Uni Bremen  
+*  *Uni Bremen*
 The Universität Bremen (Germany)  will develop the (robot internal) representation of observations, knowledge and data, as well as methods for reasoning upon them for combining, learning and constraining them. From this, executable robot plans are transformed. 
 The university of Bremen is also the leading partner in the project coordination and management work package.  
 **Work Package 1: Representation**  
 **Work Package 9: Project Coordination and Management**
-* ####Forth  
+* *Forth*  
 The main objective of the Foundation for Research and Technology (Greece) in the RoboHow project is the extraction and representation of information from a demonstration video.  
 **Work Package 2: Observation of Human Demonstrations**
-* ####KU Leuven  
+* *KU Leuven*  
 The Katholieke Universiteit Leuven (Belgium) focuses on the development of a system that generates movements for action specifications.  
 **Work Package 3: Constraint- and Optimization-based Control**
-* ####KTH  
+* *KTH*  
 The main role of Kungliga Tekniska Högskolan (Sweden)  is related to sensory perception in work package 2 and 4. It takes the lead in the latter work package.  
 **Work Package 4: Perception for Robot Action and Manipulation**
-* ####EPFL  
+* *EPFL*  
 The Ecole Polytechnique Federale de Lausanne (Switzerland) is repsonsible for work package 5. This work package revolves around imitation learning, where a human demonstrates a task to the robot.  
 **Work Package 5: Learning from Interaction with a Human**
-* ####TUM  
+* *TUM*  
 The Technische Universität München (Germany) aims to develop a plan language used for representing and specifying behaviour of the robot. Also, it will develop prediction methods to fill gaps in incomplete specification.  
 **Work Package 6: Plan-based Control**
-* ####CNRS  
+* *CNRS*  
 The Centre National de la Recherche Scientifique (France) will take the lead in architecture integration and robot benchmarking, as well as software guidelines and implementation policies.  
 **Work Package 7: System Integration and Benchmarking**
-* ####Aldebaran  
+* *Aldebaran*  
 Aldebaran Robotics (France)  will assess the results achieved for future commercialization and prototyping. Also, it will foster participation in both the scientific community and among industry stakeholders.  
 **Work Package 8: Dissemination and Outreach**
-* ####UL  
+* *UL*  
 The Universiteit Leiden (The Netherlands) does not take the lead on any of the work packages. It's main task will be the *translation of concepts and models from psychology and the cognitive neurosciences into an implementable cognitive-control architecture to generate both previously acquired and ad-hoc action plans.*
 
 The project is mostly funded by the European Comission as part of *the Cognitive Systems and Robotics Initiative in the Seventh Framework Programme*.
